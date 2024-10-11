@@ -1,0 +1,14 @@
+
+#nav-menu-full .bg-wrap {
+	background: #eeefef;
+}#header-form .bg {
+    background-image: url('../images//uploaded/12/hab8-890x470.jpg');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    opacity:0.75;
+}
+#header-form .bg {
+	opacity: 0.6;
+	background-image: url('../images/_/uploaded/12/about_bg.jpg');
+}
